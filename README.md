@@ -28,16 +28,3 @@ Este portafolio utiliza una pila de herramientas estándar en la industria del a
 
 ---
 
-## Cómo Explorar los Proyectos
-
-1.  **Clona este repositorio:**
-    ```bash
-    git clone [https://github.com/tu-usuario/Portafolio-analisis-de-datos.git](https://github.com/tu-usuario/Portafolio-analisis-de-datos.git)
-    ```
-2.  **Navega a la carpeta de tu interés:**
-    ```bash
-    cd Portafolio-analisis-de-datos/proyecto_01_eda_python
-    ```
-3.  **Para los proyectos de Python:** Abre los notebooks (`.ipynb`) en Google Colab para ejecutar el código y explorar los análisis.
-4.  **Para el proyecto de Power BI:** Descarga el archivo `.pbix` y ábrelo con Power BI Desktop.
-
