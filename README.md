@@ -10,10 +10,10 @@ Cada proyecto se aloja en su propia carpeta, con un archivo `README.md` dedicado
 
 Este portafolio utiliza una pila de herramientas estándar en la industria del análisis de datos.
 
-* **Google Colab** 💻: para el desarrollo de notebooks de Python.
-* **Python 3.x** 🐍: con bibliotecas como `pandas`, `NumPy`, `matplotlib` y `seaborn`.
-* **MySQL** 🐘: para el diseño, la conversión y la consulta de bases de datos.
-* **Power BI** 📊: para la creación de dashboards interactivos y reportes visuales.
+* **Google Colab**: para el desarrollo de notebooks de Python.
+* **Python 3**: con bibliotecas como `pandas`, `NumPy`, `matplotlib` y `seaborn`.
+* **MySQL**: para el diseño, la conversión y la consulta de bases de datos.
+* **Power BI**: para la creación de dashboards interactivos y reportes visuales.
 
 ---
 
@@ -21,10 +21,10 @@ Este portafolio utiliza una pila de herramientas estándar en la industria del a
 
 | Carpeta | Descripción | Herramientas |
 | :--- | :--- | :--- |
-| `proyecto_01_eda_python` | Análisis exploratorio (EDA) del comportamiento de usuarios y transacciones. | Colab, Python |
-| `proyecto_02_estadistica_python` | Inferencia estadística y pruebas de hipótesis para validar insights. | Colab, Python |
-| `proyecto_03_mysql_conversion` | Modelado de datos, normalización y migración de conjuntos de datos. | MySQL |
-| `proyecto_04_visualizacion_powerbi` | Creación de dashboards e indicadores (KPIs) para monitoreo financiero. | Power BI |
+| `Analisis Exploratorio con Python` | Análisis exploratorio de datos . | Colab, Python |
+| `Inferencia Estadistica con Python` | Inferencia estadística,. | Colab, Python |
+| `Bases de Datos MySql` | Modelado de datos, normalización y migración de conjuntos de datos. | MySQL |
+| `Visualización con Power Bi` | Creación de dashboards e indicadores (KPIs) para monitoreo financiero. | Power BI |
 
 ---
 
